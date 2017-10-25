@@ -1,4 +1,3 @@
 ﻿  Source.cpp
-c:\users\ulises perez\desktop\cis-7\assignment 8\assignment 8\source.cpp(61): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
   Assignment 8.vcxproj -> C:\Users\Ulises Perez\Desktop\CIS-7\Assignment 8\Debug\Assignment 8.exe
   Assignment 8.vcxproj -> C:\Users\Ulises Perez\Desktop\CIS-7\Assignment 8\Debug\Assignment 8.pdb (Partial PDB)
